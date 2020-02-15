@@ -1,0 +1,11 @@
+D:\PROGRAM\ETHERNET_IP\TEST_C_SHARP\3\test_form\bin\Debug\test_form.exe.config
+D:\PROGRAM\ETHERNET_IP\TEST_C_SHARP\3\test_form\bin\Debug\test_form.exe
+D:\PROGRAM\ETHERNET_IP\TEST_C_SHARP\3\test_form\bin\Debug\test_form.pdb
+D:\PROGRAM\ETHERNET_IP\TEST_C_SHARP\3\test_form\bin\Debug\EEIP.dll
+D:\PROGRAM\ETHERNET_IP\TEST_C_SHARP\3\test_form\obj\Debug\test_form.csprojAssemblyReference.cache
+D:\PROGRAM\ETHERNET_IP\TEST_C_SHARP\3\test_form\obj\Debug\test_form.Form1.resources
+D:\PROGRAM\ETHERNET_IP\TEST_C_SHARP\3\test_form\obj\Debug\test_form.Properties.Resources.resources
+D:\PROGRAM\ETHERNET_IP\TEST_C_SHARP\3\test_form\obj\Debug\test_form.csproj.GenerateResource.cache
+D:\PROGRAM\ETHERNET_IP\TEST_C_SHARP\3\test_form\obj\Debug\test_form.csproj.CopyComplete
+D:\PROGRAM\ETHERNET_IP\TEST_C_SHARP\3\test_form\obj\Debug\test_form.exe
+D:\PROGRAM\ETHERNET_IP\TEST_C_SHARP\3\test_form\obj\Debug\test_form.pdb
